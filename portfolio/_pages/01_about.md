@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+![photo-of-alexes](../assets/self_portrait.JPG){:height="900px" width="700px" .center-image}
 
-Email: alexespresswood@gmail.com
+Email: alexespresswood@gmail.com<br />
 Phone: (636) 352-8647
 
 My name is Alexes Presswood. I am a developer from St. Louis currently residing in Kansas City. I started programming mobile
