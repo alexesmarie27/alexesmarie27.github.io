@@ -4,10 +4,10 @@ email: ampress727@gmail.com
 description: >
   This website will be used as my online portfolio, linking any visitors to my 
   Github, LinkedIn, Blog, etc.
-baseurl: "/portfolio"
-url: "http://alexesmarie27.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: alexespresswood
+github_username:  alexesmarie27
 # Build Settings
 sass:
   sass_dir: _sass
