@@ -2,8 +2,8 @@
 title: Alexes Presswood
 email: ampress727@gmail.com
 description: >
-  This website will be used as my online portfolio, linking any visitors to my 
-  Github, LinkedIn, Blog, etc.
+  This website will be used as my online resume and portfolio, linking any
+  visitors to my Github, LinkedIn, Blog, etc.
 baseurl: ""
 url: "http://localhost:4000"
 twitter_username: alexespresswood
