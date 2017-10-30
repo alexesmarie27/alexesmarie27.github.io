@@ -6,8 +6,8 @@ description: >
   Github, LinkedIn, Blog, etc.
 baseurl: "/portfolio"
 url: "http://alexesmarie27.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+twitter_username: alexespresswood
+github_username:  alexesmarie27
 # Build Settings
 sass:
   sass_dir: _sass
